@@ -11,7 +11,7 @@ final class LBTAToolsTests: XCTestCase {
         
         let v = UIView()
         v.anchor(top: nil, leading: nil, bottom: nil, trailing: nil)
-        XCTAssertEqual(LBTATools().text, "Hello, World!")
+//        XCTAssertEqual(LBTATools().text, "Hello, World!")
     }
 
     static var allTests = [
